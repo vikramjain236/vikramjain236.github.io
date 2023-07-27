@@ -9,4 +9,4 @@ You can also find my articles on my [Google Scholar](https://scholar.google.com/
 
 Books
 ======
-
+Jain, Vikram., Verhelst, Marian. [Towards Heterogeneous Multi-core Systems-on-Chip for Edge Machine Learning: Journey from Single-core Acceleration to Multi-core Heterogeneous Systems](https://www.google.com/books/edition/Towards_Heterogeneous_Multi_core_Systems/3tcC0AEACAAJ?hl=en). United States: Springer Nature Switzerland, 2023.
