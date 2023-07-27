@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vikram Jain"
 title_separator          : "-"
 name                     : &name "Vikram Jain"
-description              : &description "PhD Researcher, ESAT-MICAS, KU Leuven"
+description              : &description "PostDoctoral Researcher, SLICE & BWRC, UC Berkeley"
 url                      : https://vikramjain236.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vikramjain236/vikramjain236.github.io"
@@ -82,14 +82,15 @@ analytics:
 author:
   name             : "Vikram Jain"
   avatar           : "vikram.jpg"
-  bio              : "PhD Researcher, ESAT-MICAS, KU Leuven"
-  location         : "Leuven, Belgium"
-  employer         : "KU Leuven"
+  bio              : "PostDoctoral Researcher, SLICE & BWRC, UC Berkeley"
+  location         : "Berkeley, US"
+  employer         : "UC Berkeley"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uYVMSsEAAAAJ&hl=en"
   email            : "vikramjainiit@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://micas.esat.kuleuven.be/team/00124756"
+  uri              : "https://bwrc.eecs.berkeley.edu/user/vikram-jain"
+  uri              : "https://slice.eecs.berkeley.edu/people/"
   bitbucket        :
   codepen          :
   dribbble         :
