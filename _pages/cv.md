@@ -11,18 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Electrical Engineering (Efficient processors for edge ML), KU Leuven, Belgium, 2023
+* M.Sc. in Embedded Electronic System Design, Chalmers University of Technology, Sweden, 2018
+* B.Tech. in Electrical and Electronics Engineering, Sathyabama University, India, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Present: Postdoctoral Researcher
+  * UC Berkeley
+  * SLICE & BWRC
+  * Supervisor: Prof Borivoje Nikolic and Prof Sophia Shao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Under Construction
